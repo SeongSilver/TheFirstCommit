@@ -1,2 +1,2 @@
-email : yooseongeun@naver.com   
-gitID : SeongSilver
+email : yooseongeun@naver.com222
+gitID : SeongSilver222
